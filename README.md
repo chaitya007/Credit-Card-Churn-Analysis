@@ -1,4 +1,5 @@
-📌 Project Overview
+##📌 Project Overview
+
 Customer churn is a major concern for financial institutions because retaining existing customers is significantly more cost-effective than acquiring new ones.
 
 Understanding the behavioral and demographic factors that contribute to churn enables banks to develop targeted retention strategies.
